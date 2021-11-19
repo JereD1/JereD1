@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JereD1
-- 👀 I’m interested in Web, App And Software Development
+- 👀 I’m interested in Web And Software Development
 - 🌱 I’m currently learning HTMl and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG - Jeremiahomoruyi
