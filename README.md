@@ -12,7 +12,7 @@ I'm Jeremiah, a passionate Frontend Developer and Esports Enthusiast!
 
     Languages: JavaScript, HTML, Tailwind CSS
     Frameworks & Libraries: React, Next.js,
-    Design Tools: Photoshop, After Effect, Figma
+    Design Tools: Photoshop, Figma
     Version Control: Git, GitHub
 
 📫 How to reach me
