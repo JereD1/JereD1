@@ -24,9 +24,7 @@ I'm Jeremiah, a passionate Frontend Developer and Esports Enthusiast!
 
 🔭 Projects
 
-   [([Project URL](https://www.realtimeprod.com/) - Professional real-time production services for esports tournaments, live streaming, talent sourcing, highlights, and more.  ]
-    [Project 2](Project URL) - Brief description of project 2.
-    [Project 3](Project URL) - Brief description of project 3.
+  [(https://www.realtimeprod.com/)]
 
 <!---
 JereD1/JereD1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
