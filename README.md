@@ -24,7 +24,7 @@ I'm Jeremiah, a passionate Frontend Developer and Esports Enthusiast!
 
 🔭 Projects
 
-    [Project 1](Project URL) - Brief description of project 1.
+   [([Project URL](https://www.realtimeprod.com/) - Professional real-time production services for esports tournaments, live streaming, talent sourcing, highlights, and more.  ]
     [Project 2](Project URL) - Brief description of project 2.
     [Project 3](Project URL) - Brief description of project 3.
 
